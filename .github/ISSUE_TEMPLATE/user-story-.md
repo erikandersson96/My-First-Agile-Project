@@ -12,3 +12,7 @@ As a **role** I can **capability** so that **received benefit**
 ### **Acceptance Criteria:**
 * Acceptance criteria 1: **write explanation of received benefit**
 * Acceptance criteria 2: **write explanation of capability**
+
+### **Tasks:**
+- [ ] Task 1
+- [ ] Task 2
